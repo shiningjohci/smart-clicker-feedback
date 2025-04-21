@@ -16,7 +16,7 @@ If you prefer not to use GitHub Issues, you can also send feedback via email to:
 
 ## Where is the Extension?
 
-You can find the Smart Clicker extension on the [Chrome Web Store](扩展商店链接 - 等上线后添加).
+You can find the Smart Clicker extension on the [Chrome Web Store](https://chromewebstore.google.com/detail/smart-clicker/jjgmelginpdajlkmnflhgknlhgpolhlo?authuser=0&hl=en).
 
 ---
 
